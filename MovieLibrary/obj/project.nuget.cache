@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vfVpwWG4OIGQDZUzT2chIcn5Ppy2hmdEa3xWzCB0eBhnsdP7Z0uFICw5H1k0KbFJex4j/fgZOdCDK/uvKOfcAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jo\\RiderProjects\\MovieLibrary\\MovieLibrary\\MovieLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jo\\.nuget\\packages\\nlog\\4.7.14\\nlog.4.7.14.nupkg.sha512"
+  ],
+  "logs": []
+}
